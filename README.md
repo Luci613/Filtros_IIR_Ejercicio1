@@ -1,7 +1,7 @@
 # Filtros_IIR_Ejercicio1
 Procesado de Señales Multimedia.
 
-Ficheros:
+Ficheros .m:
 
       mostrarFiltro_EjercicioIIR.m --> diseño de filtros   
 
